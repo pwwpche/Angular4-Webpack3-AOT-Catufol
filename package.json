@@ -1,0 +1,37 @@
+{
+  "name": "Angular4-AOT-Webpack3-Catufol",
+  "license": "MIT",
+  "scripts": {
+    "build": "catufol -b"
+  },
+  "dependencies": {
+    "@angular/common": "4.3.4",
+    "@angular/compiler": "4.3.4",
+    "@angular/compiler-cli": "4.3.4",
+    "@angular/core": "4.3.4",
+    "@angular/http": "4.3.4",
+    "@angular/platform-browser": "4.3.4",
+    "@angular/platform-browser-dynamic": "4.3.4",
+    "@angular/platform-server": "4.3.4",
+    "@angular/router": "4.3.4",
+    "core-js": "^2.4.1",
+    "rxjs": "5.0.3"
+  },
+  "devDependencies": {
+    "@ngtools/webpack": "1.6.0",
+    "angular2-template-loader": "^0.6.2",
+    "catufol": "git+https://github.com/pwwpche/catufol#master",
+    "enhanced-resolve": "^3.1.0",
+    "live-server": "^1.1.0",
+    "node-sass": "^3.7.0",
+    "performance-now": "^0.2.0",
+    "raw-loader": "^0.5.1",
+    "sass-loader": "^3.2.0",
+    "ts-loader": "^2.3.4",
+    "tslint": "^5.7.0",
+    "tslint-loader": "^3.5.3",
+    "typescript": "2.3.4",
+    "webpack": "^3.5.5",
+    "zone.js": "^0.8.17"
+  }
+}

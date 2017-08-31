@@ -1,0 +1,14 @@
+{
+  "appName": "apps",
+  "devServerPort": 8081,
+  "exportJQuery": true,
+  "vendors": [
+     "reflect-metadata",
+     "es6-shim"
+  ],
+  "devEntryFile": "./app/main.ts",
+  "prodEntryFile": "./app/main.ts",
+  "aotEntryFile": "./app/main.aot.ts",
+  "useTemplateUrl": true,
+  "enableAOT": false
+}
